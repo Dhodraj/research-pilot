@@ -1,0 +1,126 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "ResearchPilot",
+  "elements": [
+    {
+      "id": "a1",
+      "type": "rectangle",
+      "x": 100,
+      "y": 100,
+      "width": 260,
+      "height": 60,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent"
+    },
+    {
+      "id": "t1",
+      "type": "text",
+      "x": 120,
+      "y": 120,
+      "text": "Research Topic / Question",
+      "fontSize": 20
+    },
+    {
+      "id": "a2",
+      "type": "rectangle",
+      "x": 100,
+      "y": 200,
+      "width": 260,
+      "height": 60,
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "id": "t2",
+      "type": "text",
+      "x": 140,
+      "y": 220,
+      "text": "Agent Orchestrator",
+      "fontSize": 20
+    },
+    {
+      "id": "a3",
+      "type": "rectangle",
+      "x": 100,
+      "y": 300,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "t3",
+      "type": "text",
+      "x": 130,
+      "y": 320,
+      "text": "Multi-Source Search Agents",
+      "fontSize": 20
+    },
+    {
+      "id": "a4",
+      "type": "rectangle",
+      "x": 100,
+      "y": 400,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "t4",
+      "type": "text",
+      "x": 130,
+      "y": 420,
+      "text": "Insight Synthesis (Claude)",
+      "fontSize": 20
+    },
+    {
+      "id": "a5",
+      "type": "rectangle",
+      "x": 100,
+      "y": 500,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "t5",
+      "type": "text",
+      "x": 150,
+      "y": 520,
+      "text": "Human Approval Gate",
+      "fontSize": 20
+    },
+    {
+      "id": "a6",
+      "type": "rectangle",
+      "x": 100,
+      "y": 600,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "t6",
+      "type": "text",
+      "x": 160,
+      "y": 620,
+      "text": "Structured Output Gen",
+      "fontSize": 20
+    },
+    {
+      "id": "a7",
+      "type": "rectangle",
+      "x": 100,
+      "y": 700,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "t7",
+      "type": "text",
+      "x": 170,
+      "y": 720,
+      "text": "PPT Generator",
+      "fontSize": 20
+    }
+  ],
+  "appState": {},
+  "files": {}
+}
+
